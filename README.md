@@ -18,9 +18,9 @@ We envision a world where digital sovereignty is simple and accessible for every
 
 Whether you're a developer eager to contribute to the Web3 space, a digital enthusiast looking to secure your Web3 identity, or a visionary on the frontier of blockchain and AI, there's a place for you at 3NS 🌟.
 
-- **Website:** [https://3ns.box/](https://3ns.ai/)
-- **Twitter:** [https://twitter.com/3dns](https://x.com/3NSai)
-- **GitHub:** [https://github.com/3DNS](https://github.com/3NSai)
+- **Website:** [https://3ns.ai/](https://3ns.ai/)
+- **Twitter:** [https://x.com/3NSai](https://x.com/3NSai)
+- **GitHub:** [https://github.com/3NSai](https://github.com/3NSai)
 
 ## 💻 Contribute
 
