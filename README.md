@@ -37,7 +37,7 @@ Supported models include:
 - **OpenAI** models like GPT-4 and GPT-3.5
 - **Anthropic Claude** models
 - **Cohere** models
-- **Groq** models like LLaMA and Gemma
+- **Groq** models 
 
 With these seamless integrations, your domain becomes a hub for intelligent interactions. Train your AI to automate tasks, assist users, promote content, and even handle transactions—without needing any technical knowledge.
 
