@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Welcome to Agent Domain Protocol!
 
 ## Vision
