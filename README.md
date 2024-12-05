@@ -284,8 +284,6 @@ The following have either integrated already or are in *evaluation
 
 ---
 
-This version ensures clarity, organizes the projects by category, and provides complete descriptions, URLs, and GitHub links where available.
----
 
 ## Contributing
 
