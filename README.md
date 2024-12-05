@@ -220,13 +220,13 @@ The following have either integrated already or are in *evaluation
 |--------------------|---------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------|
 | **OpenWebUI**      | Full support for importing and exporting prompts and model files to/from 3NS.   | [Website](https://openwebui.com/)        | [GitHub](https://github.com/open-webui)      |
 | **Ollama**         | Host your own Ollama server for complete control over models and data.          | [Website](https://ollama.com/)           | [GitHub](https://github.com/ollama)          |
-| **BitTensor**      | *Decentralized digital commodities                         | [Website](https://bittensor.org/)        | [GitHub](https://github.com/opentensor)      |
+| **BitTensor**      | *Evaluating integration: Decentralized digital commodities                         | [Website](https://bittensor.org/)        | [GitHub](https://github.com/opentensor)      |
 | **Google (GenKit)**| Integration with GenKit for AI workflows.                                       | [Website](https://firebase.google.com/)  | [GitHub](https://github.com/firebase)        |
 | **DecentralML**    | Polkadot substrate pallet for decentralized task execution using Docker.        | [Website](http://www.decentralml.io/)    | [GitHub](https://github.com/ashleyturing/decentralml)                              |
-| **Akash Network**  | *Decentralized compute marketplace for hosting agents and AI workloads.          | [Website](https://akash.network/)        | [GitHub](https://github.com/ovrclk/akash)    |
-| **0g.ai**          | *Operating system for decentralized compute solutions.                           | [Website](https://0g.ai/)                | -                              |
-| **HyperCycle**     | *Decentralized AI infrastructure for efficient task execution.                   | [Website](https://www.hypercycle.ai/)    | [GitHub](https://github.com/singnet)         |
-| **Space and Time** | *Decentralized data warehouse built for blockchain indexing and agent smart contracts                  | [Website](https://www.spaceandtime.io/)  | -                               |
+| **Akash Network**  | *Evaluating integration: Decentralized compute marketplace for hosting docker (useful for N8N).          | [Website](https://akash.network/)        | [GitHub](https://github.com/ovrclk/akash)    |
+| **0g.ai**          | *Evaluating integration: Operating system for decentralized compute solutions (useful for N8N).                           | [Website](https://0g.ai/)                | -                              |
+| **HyperCycle**     | *Evaluating integration: Decentralized AI infrastructure for docker (useful for N8N).                   | [Website](https://www.hypercycle.ai/)    | [GitHub](https://github.com/singnet)         |
+| **Space and Time** | *Evaluating integration: Decentralized data warehouse built for blockchain indexing and agent smart contracts (useful for DeFi).                  | [Website](https://www.spaceandtime.io/)  | -                               |
 
 ---
 
