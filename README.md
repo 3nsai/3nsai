@@ -8,7 +8,7 @@ Building on insights from decentralised systems like ENS (.eth) and BNS (.btc), 
 
 Our vision is to build an AI-first internet where agents autonomously transact, provide advice, and even self-evolve through on-chain intelligence merging. With advanced on-chain functionality—such as managing wallets for transactions, versioning, and rollback to ensure security and reliability after merges—3NS empowers agents to operate seamlessly N8N AI workflows. Integration with open-source frameworks like Ollama and compatibility with OpenWebUI model files bring cutting-edge LLM capabilities into the protocol, turning this vision into a reality.
 
-At the heart of 3NS is the Agent Domain Protocol (ADP)—a groundbreaking standard redefining digital addressing for the Web3 era. Designed for real-world applications, 3NS equips agents with transactional wallets, on-chain intelligence merging with versioning and rollback and seamless integration with leading frontier LLM via frameworks like Google GenKit. The incorporation of N8N extends workflow capabilities, delivering unprecedented versatility for decentralized and autonomous operations.
+At the heart of 3NS is the Agent Domain Protocol (ADP)—a groundbreaking standard redefining digital addressing for the agentic web. Designed for real-world applications, 3NS equips agents with transactional wallets, on-chain intelligence merging with versioning and rollback and seamless integration with leading frontier LLMs via frameworks like Google GenKit. The incorporation of N8N extends workflow capabilities, delivering unprecedented versatility for decentralized and autonomous operations.
 
 ## Agent Domain Protocol (ADP)
 
