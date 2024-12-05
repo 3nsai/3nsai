@@ -203,38 +203,10 @@ ADP workflows are the beating heart of agent automation, enabling tasks to execu
 
 ---
 
-## Workflow Syntax
 
-ADP workflows adopt N8N-compatible syntax to simplify workflow design and execution. Nodes define individual tasks, while connections define their dependencies.
 
----
 
-## Example Workflows
 
-### Multistep Workflow with Decentralized Functionality
-
-1. **Fetch Data**: Collect input from a trusted source.
-2. **Process Data**: Apply AI transformations.
-3. **Store Output**: Commit results on-chain.
-
-```json
-{
-  "nodes": [
-    {
-      "type": "n8n-nodes-base.httpRequest",
-      "parameters": {
-        "url": "https://api.fetch.ai/data"
-      }
-    },
-    {
-      "type": "n8n-nodes-base.function",
-      "parameters": {
-        "code": "return items.map(item => item.json.data);"
-      }
-    }
-  ]
-}
-```
 
 ---
 
