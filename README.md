@@ -1,32 +1,14 @@
-# 🚀 Welcome to Agent Domain Protocol!
+# Web3 Naming System (3NS AI)
 
-## Vision
+3NS AI is an AI-first domain naming system that redefines web addressing by integrating AI-driven workflows into .Web3 domains, enabling autonomous agent workflows. The addressing system defines the future of the next-gen agentic web, where domains act as intelligent agents that negotiate, transact, and communicate on behalf of their owners.
 
-We believe that **websites as they are now will become a thing of the past**. The Agent Domain Protocol enables **AI agents** to interact through your **.Web3 domain**, acting on your behalf to negotiate, communicate, transact, and issue digital assets. Imagine your AI, trained based on your preferences, automatically engaging with other domains, finalizing deals, or executing transactions on-chain—all while you focus on what matters most.
+Building on insights from decentralised systems like ENS (.eth) and BNS (.btc), 3NS transforms .Web3 domains into powerful, evolving assets. With on-chain intelligence merging, these agents can upgrade their skills, collaborate seamlessly across chains and adapt to new opportunities in a decentralised ecosystem.
 
-### 🔥 Intelligence Burned On-Chain: A Genuine, Tradable Asset
+3NS bridges traditional frameworks and facilitates the power of cutting-edge projects like LangChain and Google's GenKit, while also integrating on-chain frameworks such as Fetch.ai and Near. Through the portal website Web3Names.ai, users can effortlessly manage their domains. For those seeking simplicity, they can host their own personalized link aggregation website at https://<your-domainname>.3ns.link—a simple yet powerful site, akin to LinkTree, but enhanced with an AI chatbot powered by the .Web3 domain's digital intelligence.
 
-Unlike traditional domain services like ENS, BNS, or **.eth**, **3NS** integrates blockchain to **burn your intelligence on-chain**—embedding N8N-powered workflows and AI logic into your **.Web3 domain**. 
+Our vision is to build an AI-first internet where agents autonomously transact, provide advice, and even self-evolve through on-chain intelligence merging. With advanced on-chain functionality—such as managing wallets for transactions, versioning, and rollback to ensure security and reliability after merges—3NS empowers agents to operate seamlessly. Integration with open-source frameworks like Ollama and compatibility with OpenWebUI model files bring cutting-edge LLM capabilities into this ecosystem, turning this vision into a reality.
 
-By using blockchain as a foundation, **intelligence merging, on-chain versioning, and rollback functionalities** become possible. Imagine your AI agent starts behaving unpredictably post-merge—blockchain auditing and rollback enable you to revert to the prior state with full accountability. Additionally, agents can autonomously **negotiate and pay** for services on your behalf, creating a frictionless, intelligent digital economy.
-
----
-
-## 🌟 .Web3 Supports
-
-### 1. **Web2 and Web3 Aggregation**
-Your **.Web3 domain** combines Web2 and Web3, aggregating your social media, websites, and decentralized features like wallet addresses and smart contracts. It acts as a hub for both centralized and decentralized digital presence.
-
-### 2. **True Ownership & Control**
-Your **.Web3 domain** is decentralized and entirely under your control. It transcends traditional websites, serving as your unique digital identity.
-
-### 3. **AI-Powered Agents**
-Integrate advanced AI models to automate your digital presence. AI agents tied to your **.Web3 domain** can assist visitors, promote content, handle transactions, and even negotiate contracts.
-
-### 4. **Decentralized Agent Management**
-Choose from various AI models—**OpenAI**, **Ollama**, **OpenWebUI**, or decentralized frameworks like **Fetch.ai**—to avoid lock-in and maintain control over your AI's evolution.
-
----
+At the heart of 3NS is the Agent Domain Protocol (ADP)—a groundbreaking standard redefining digital addressing for the Web3 era. Designed for real-world applications, 3NS equips agents with transactional wallets, on-chain intelligence merging for versioning and rollback, and seamless integration with leading LLM frameworks like Google GenKit. The incorporation of N8N extends workflow capabilities, delivering unprecedented versatility for decentralized and autonomous operations.
 
 ## Agent Domain Protocol (ADP)
 
@@ -50,13 +32,38 @@ Agent Domain Protocol (ADP) is an open-source standard for enabling AI-driven in
 
 ---
 
+## Introduction
+
+The future of Web3 is intelligent, interoperable, and decentralized.
+
+Agent Domain Protocol provides a foundation for creating and managing intelligent agents backed by .Web3 domains. With support for multichain deployment, AI-driven workflows, decentralized reputation systems, and tokenized governance, ADP empowers developers to build ecosystems where agents perform tasks, negotiate terms, and evolve over time.
+
+---
+
 ## Top Features at a Glance:
 
-1. **Domain Architecture**: Tokenized, multichain-enabled domains with advanced on-chain versioning, seamless intelligence merging, rollback capabilities, and blockchain-based payments.  
-2. **Discovery and Reputation**: Advanced metadata indexing, autonomous agent discovery, and decentralized reputation scoring.  
-3. **Agent Workflows**: AI-driven workflows with seamless multichain execution using N8N-compatible syntax.  
-4. **Agent Frameworks**: Supports frameworks like **Fetch.ai**, **Langchain**, **Autogen**, and more.  
-5. **Cross-Chain Interoperability**: Native support for Ethereum, Moonbeam, Polygon, Fetch.ai, Near, and others.  
+1. **Domain Architecture**: The Domain Architecture of ADP redefines digital assets and utilises the full power of blockchain technology with advanced on-chain versioning, seamless intelligence merging,  on-chain rollback capabilities and integrated blockchain-based payments, enabling robust multichain interoperability and decentralized governance for dynamic ecosystems.
+2. **Discovery and Reputation**: Advanced metadata indexing, automonous agent discovery and decentralized reputation scoring ensure trust and discoverability.  
+3. **Agent Workflows**: AI-driven workflows with seamless multichain execution, supported by N8N-compatible syntax for drag-and-drop ease.  
+4. **Agent Frameworks**: Supports a number of agent (decentralised like Fetch.ai, as well as, Google GenKit, Langchain, Autogen, CrewAI and more) frameworks is not opinionated on which one your agent chooses to utilise.   
+5. **Cross-Chain Interoperability**: Native support for Ethereum, Moonbeam, Polygon, Fetch.ai, Near and more for seamless multichain operations.  
+
+### Key repositories:
+
+The ADP embeds powerful, autonomous intelligence directly into digital assets. This capability allows agents to independently negotiate, act, and optimize communication across ecosystems, from high-level AI reasoning to low-level binary protocols.  
+
+To complement this open protocol, we've provided tools and libraries to simplify implementation:  
+- **[3NS Smart Contracts](https://github.com/3nsai/3NS)**: A fork of ENS contracts designed to support ADP.  
+- **[3NS Frontend dApp](https://github.com/3nsai/web3names-app)**: Manage .Web3 domains through a seamless UI.  
+- **[3NS MetaMask Snap Plugin](https://github.com/3nsai/web3names-snap)**: Enable direct wallet-based domain interactions.  
+- **[3NS Subgraph](https://github.com/3nsai/3ns-subgraph)**: Optimize domain discovery and indexing with our subgraph.
+- **[3NS Web3Names.ai Customer Portal](https://web3names.ai)**: Provides an easy to use portal website for customer management of .Web3 domains  
+
+*Certain repositories, due to the transformative potential they hold, remain private as we refine and secure their capabilities. Among these are our autonomous WebRTC agent-to-agent communication binary protocol and the Collective DAO framework, both designed to completely change the way we currently utilise the web through decentralized autonomous agent collaboration. These innovations will be unveiled in alignment with community input and ethical considerations of their powerful impact.  
+
+We actively collaborate with leading Web3 and AI open-source initiatives, including OpenWebUI, Ollama, Near, Solana, and Polkadot. For the full scope of integrations, refer to the **[Integrated and Compatible Projects](#integrated-and-compatible-projects)** section. If you would like to propose an integration or join our development ecosystem, we welcome your input.  
+
+Our ongoing research also includes exploring DeFi innovations such as Beefy Protocol, further expanding the horizons of intelligent, autonomous agents in the Web3 landscape. Join us on [Discord](https://discord.com/invite/5rJgQTnV4s) to contribute and stay informed.*
 
 ---
 
@@ -66,7 +73,7 @@ Agent Domain Protocol (ADP) is an open-source standard for enabling AI-driven in
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/3nsai/agent-domain-protocol.git
+   git clone https://github.com/agent-domain-protocol/agent-domain-protocol.git
    cd agent-domain-protocol
    ```
 
@@ -82,31 +89,88 @@ Agent Domain Protocol (ADP) is an open-source standard for enabling AI-driven in
 
 ---
 
+### Key Capabilities:
+
+1. **Domain Architecture**: Tokenized, multichain-enabled domains supporting decentralized governance and collective decision-making. 
+2. **Discovery and Reputation**: Advanced metadata indexing, autonomous agent discovery and decentralized reputation scoring ensure trust and discoverability.  
+3. **Agent Workflows**: N8N-compatible syntax for drag-and-drop ease with 100s of powerful extensions.
+
+
 ## Domain Architecture
 
-### Transforming Digital Assets
+The **Domain Architecture** of ADP represents a significant leap forward in empowering digital assets across chains. Whether it is an NFT on an EVM, Solana, Ordinal on Stacks each domain is a tokenized decnetralised entity, embedded with a powerful ADP (defined in protocol_spec.json) that is stored decentrally and define its AI logic and workflow functionality within both decentralized and wider traditional web ecosystems.
 
-The **Domain Architecture** of ADP represents a significant leap forward in empowering digital assets across chains. Each domain is a tokenized, decentralized entity, embedded with a powerful ADP specification that defines its logic and functionality.  
+1. **Multichain Registration**:  
+   Domains can be registered across multiple blockchains, ensuring interoperability. Metadata stored with domains includes critical details like their registries, transaction hashes, and timestamps.  
 
-1. **Multichain Registration**: Domains can be registered across multiple blockchains, ensuring interoperability and storing metadata like registries, transaction hashes, and timestamps.  
-2. **Tokenized Collectives**: Domains support tokenization for decentralized decision-making, staking, and value-sharing.  
-3. **Versioning, Merge, and Rollback**: Safeguard workflows with on-chain versioning, merging capabilities for combining intelligences, and blockchain-audited rollback functions.  
-4. **Blockchain-Based Payments**: Agents can autonomously manage payments and escrow services, ensuring secure and seamless transactions.  
+   JSON implementation:  
+   ```json
+   "domain": {
+       "name": "dietitianAI.web3",
+       "did": "did:web3:dietitianAI.web3",
+       "collective": {
+           "token_shortcode": "DIET",
+           "token_address": "0x324342432",
+           "dao_governor": "0xew34234234"
+       }
+       "chains": [
+            {
+                "chain_id": 1284,
+                "chain_name": "Moonbeam",
+                "created_at": 1697472000,
+                "ens_registry": "0xENSRegistryAddressOnMoonbeam",
+                "resolver": "0xPublicResolverAddressOnMoonbeam",
+                "subgraph_url": "https://subgraph.url/moonbeam",
+                "transaction_hash": "0xTxHashOfBurnOnMoonbeam"
+            },
+            {
+                "chain_id": 1,
+                "chain_name": "Ethereum",
+                "created_at": 1697572000,
+                "ens_registry": "0xENSRegistryAddressOnEthereum",
+                "resolver": "0xPublicResolverAddressOnEthereum",
+                "subgraph_url": "https://subgraph.url/ethereum",
+                "transaction_hash": "0xTxHashOfBurnOnEthereum"
+            }
+        ]
+   }
+   ```
+
+2. **Tokenized Collectives**:  
+   Domains support tokenization, enabling decentralized decision-making, staking, and value-sharing. Domains can act as collective DAOs, where governance is driven by holders of native tokens.
+
+3. **Decentralized Governance**:  
+   Updates and decision-making are handled on-chain through voting mechanisms, providing transparency and equity for domain stakeholders.
 
 ---
 
 ## Discovery and Reputation
 
-ADP includes advanced discovery tools and decentralized reputation systems:  
+Discoverability and trust are foundational to ADP, enabling agents to locate and assess each other effectively.
 
-1. **Agent Discovery**: Metadata like tags, workflow descriptors, and intent definitions enable efficient agent search.  
-2. **Reputation Framework**: DID-based identities, verifiable credentials, and reputation scoring build trust among agents and users.  
+### Features:
+
+1. **Agent Discovery**:  
+   Metadata includes tags, workflow descriptors, and intent definitions. These elements are indexed to allow efficient search and discovery.  
+
+   Example:  
+   ```json
+   "discovery": {
+       "tags": ["dietitian", "nutrition"],
+       "workflow_descriptors": {
+           "fetch_nutrition_data": "Retrieve detailed nutrition data from trusted sources."
+       }
+   }
+   ```
+
+2. **Reputation Framework**:  
+   The protocol integrates decentralized identity (DID) with verifiable credentials, allowing agents to build trust. Reputation scores are calculated based on reviews, performance, and more.  
 
 ---
 
 ## Workflows
 
-ADP workflows enable agents to execute tasks seamlessly across chains. Fully compatible with N8N, ADP provides a drag-and-drop interface for creating workflows.  
+ADP workflows are the beating heart of agent automation, enabling tasks to execute seamlessly across chains. There is full support for the visual editor including drag-and-drop ease. We wanted to make sure non-technical users could leverage the full capabilities of the ADP without having to program. Using N8N-compatible syntax, workflows are designed for flexibility and simplicity. Our belief is more simple time-tested ETL based workflows work much better for most business tasks. So we focused on N8N compatibility which offers a variety of off-the-shelf plugins from Outlook to Asana functionality incombination with several of our own plugins that work seamlessless with decentralised projects and autonomous agent innovation.
 
 ### Example Nodes:
 
@@ -139,13 +203,19 @@ ADP workflows enable agents to execute tasks seamlessly across chains. Fully com
 
 ---
 
+## Workflow Syntax
+
+ADP workflows adopt N8N-compatible syntax to simplify workflow design and execution. Nodes define individual tasks, while connections define their dependencies.
+
+---
+
 ## Example Workflows
 
 ### Multistep Workflow with Decentralized Functionality
 
-1. **Fetch Data**: Collect input from trusted sources.  
-2. **Process Data**: Apply AI transformations.  
-3. **Store Output**: Commit results on-chain.  
+1. **Fetch Data**: Collect input from a trusted source.
+2. **Process Data**: Apply AI transformations.
+3. **Store Output**: Commit results on-chain.
 
 ```json
 {
@@ -168,16 +238,53 @@ ADP workflows enable agents to execute tasks seamlessly across chains. Fully com
 
 ---
 
+
 ## Integrated and Compatible Projects
+The following have either integrated already or are in *evaluation
 
-| **Project**       | **Description**                                           | **Website**                                | **GitHub**                                   |
-|--------------------|-----------------------------------------------------------|--------------------------------------------|----------------------------------------------|
-| **OpenWebUI**      | Import/export prompts and models seamlessly.              | [Website](https://openwebui.com/)          | [GitHub](https://github.com/open-webui)      |
-| **Ollama**         | Open-source model hosting for agents.                     | [Website](https://ollama.com/)             | [GitHub](https://github.com/ollama)          |
-| **Moonbeam**       | EVM-compatible blockchain for multichain deployment.      | [Website](https://moonbeam.network/)       | [GitHub](https://github.com/moonbeam)        |
-| **Fetch.ai**       | Decentralized agent framework for autonomous systems.     | [Website](https://fetch.ai/)               | [GitHub](https://github.com/fetchai)         |
-| **SingularityNET** | Decentralized AI platform for agentic frameworks.         | [Website](https://singularitynet.io/)      | [GitHub](https://github.com/singnet)         |
+### AI Frameworks and Infrastructure
 
+| **Project**       | **Description**                                                                 | **Website**                              | **GitHub**                                   |
+|--------------------|---------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------|
+| **OpenWebUI**      | Full support for importing and exporting prompts and model files to/from 3NS.   | [Website](https://openwebui.com/)        | [GitHub](https://github.com/open-webui)      |
+| **Ollama**         | Host your own Ollama server for complete control over models and data.          | [Website](https://ollama.com/)           | [GitHub](https://github.com/ollama)          |
+| **BitTensor**      | *Decentralized digital commodities                         | [Website](https://bittensor.org/)        | [GitHub](https://github.com/opentensor)      |
+| **Google (GenKit)**| Integration with GenKit for AI workflows.                                       | [Website](https://firebase.google.com/)  | [GitHub](https://github.com/firebase)        |
+| **DecentralML**    | Polkadot substrate pallet for decentralized task execution using Docker.        | [Website](http://www.decentralml.io/)    | [GitHub](https://github.com/ashleyturing/decentralml)                              |
+| **Akash Network**  | *Decentralized compute marketplace for hosting agents and AI workloads.          | [Website](https://akash.network/)        | [GitHub](https://github.com/ovrclk/akash)    |
+| **0g.ai**          | *Operating system for decentralized compute solutions.                           | [Website](https://0g.ai/)                | -                              |
+| **HyperCycle**     | *Decentralized AI infrastructure for efficient task execution.                   | [Website](https://www.hypercycle.ai/)    | [GitHub](https://github.com/singnet)         |
+| **Space and Time** | *Decentralized data warehouse built for blockchain indexing and agent smart contracts                  | [Website](https://www.spaceandtime.io/)  | -                               |
+
+---
+
+### .Web3 AI Domains can be traded on or deployment is in *progress
+
+| **Project**            | **Description**                                            | **Website**                          | **GitHub**                                   |
+|-------------------------|-----------------------------------------------------------|--------------------------------------|----------------------------------------------|
+| **Moonbeam Polkadot**   | .Web3 domains support and can be traded on Moonbeam (EVM for Polkadot ecosystem).      | [Website](https://moonbeam.network/) | [GitHub](https://github.com/moonbeam)        |
+| **Stacks Bitcoin**      | Layer for Bitcoin.            | [Website](https://www.stacks.co/)    | [GitHub](https://github.com/stacks-network)  |
+| **Solana**              | *.Web3 domains are compatible and can be deployed on Solana.    | [Website](https://solana.com/)       | [GitHub](https://solana.com/github)          |
+| **Polygon**             | .Web3 domains support and can be traded on Polygon.        | [Website](https://polygon.technology/)| [GitHub](https://github.com/0xpolygon)       |
+| **Base**                | .Web3 domains support and can be traded on Base.   | [Website](https://www.base.org/)     | [GitHub](https://github.com/base-org)        |
+| **Ethereum**                | *.Web3 domains are compatible and can be deployed on Ethereum.   | [Website](https://www.ethereum.org/)     | [GitHub](https://github.com/ethereum)        |
+---
+
+### Compatible Agent Frameworks
+
+| **Project**            | **Description**                                              | **Website**                          | **GitHub**                                   |
+|-------------------------|-------------------------------------------------------------|--------------------------------------|----------------------------------------------|
+| **Fetch.ai**            | *Evaluating integration: Decentralized framework for building autonomous agents.      | [Website](https://fetch.ai/)         | [GitHub](https://github.com/fetchai)         |
+| **SingularityNET**      | *Evaluating integration: Works with Fetch.      | [Website](https://singularitynet.io/)| [GitHub](https://github.com/singnet)         |
+| **Ocean Protocol**      | *Evaluating integration: Works with Fetch.       | [Website](https://oceanprotocol.com/)| [GitHub](https://github.com/oceanprotocol)   |
+| **LangChain**           | Integrated Framework for creating AI-powered workflows and agents.     | [Website](https://langchain.com/)    | [GitHub](https://github.com/langchain-ai)    |
+| **Near Protocol**       | *Evaluating integration: Intents and chain abstraction.  | [Website](https://near.org/)         | [GitHub](https://github.com/near)           |
+| **Theoriq.ai**          | *Evaluating integration: Awaiting testnet - AI-driven agent collaboration.            | [Website](https://www.theoriq.ai/)   | [GitHub](https://github.com/chain-ml/theoriq-agent-sdk)                              |
+| **Wire.Network**        | *Evaluating integration: Decentralized infrastructure for agent workflows.  | [Website](https://www.wire.network/) | [GitHub](https://github.com/Wire-Network) |
+
+---
+
+This version ensures clarity, organizes the projects by category, and provides complete descriptions, URLs, and GitHub links where available.
 ---
 
 ## Contributing
