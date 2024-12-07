@@ -53,6 +53,7 @@ Agent Domain Protocol provides a foundation for creating and managing intelligen
 The ADP embeds powerful, autonomous intelligence directly into digital assets. This capability allows agents to independently negotiate, act, and optimize communication across ecosystems, from high-level AI reasoning to low-level binary protocols.  
 
 To complement this open protocol, we've provided tools and libraries to simplify implementation:  
+- **[3NS Agent Domain Protocol](https://github.com/3nsai/agent-domain-protocol)**: The core protocol and node implementaiton 
 - **[3NS Smart Contracts](https://github.com/3nsai/3NS)**: A fork of ENS contracts designed to support ADP.  
 - **[3NS Frontend dApp](https://github.com/3nsai/web3names-app)**: Manage .Web3 domains through a seamless UI.  
 - **[3NS MetaMask Snap Plugin](https://github.com/3nsai/web3names-snap)**: Enable direct wallet-based domain interactions.  
