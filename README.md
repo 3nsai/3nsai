@@ -1,6 +1,6 @@
-# Web3 Naming System (3NS AI)
+# Web3 Naming System (3NS.link)
 
-3NS AI is an AI-first domain naming system that redefines web addressing by integrating AI-driven workflows into .Web3 domains, enabling autonomous agent workflows. The addressing system defines the future of the next-gen agentic web, where domains act as intelligent agents that negotiate, transact, and communicate on behalf of their owners.
+3NS.link is an AI-first domain naming system that redefines web addressing by integrating AI-driven workflows into .Web3 domains, enabling autonomous agent workflows. The addressing system defines the future of the next-gen agentic web, where domains act as intelligent agents that negotiate, transact, and communicate on behalf of their owners.
 
 Building on insights from decentralised systems like ENS (.eth) and BNS (.btc), 3NS transforms .Web3 domains into powerful, evolving assets. With on-chain intelligence merging, these agents can upgrade their skills, collaborate seamlessly across chains and adapt to new opportunities in a decentralised ecosystem.
 
