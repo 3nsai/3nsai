@@ -4,11 +4,11 @@
 
 Building on insights from decentralised systems like ENS (.eth) and BNS (.btc), 3NS transforms .Web3 domains into powerful, evolving assets. With on-chain intelligence merging, these agents can upgrade their skills, collaborate seamlessly across chains and adapt to new opportunities in a decentralised ecosystem.
 
-3NS bridges traditional frameworks and facilitates the power of cutting-edge projects like LangChain and Google's GenKit, while also integrating on-chain frameworks such as Fetch.ai and Near. Through the portal website [Web3Names.ai](https://Web3Names.ai), users can effortlessly manage their domains. For those seeking simplicity, they can host their own personalized link aggregation website at https://<your-domainname>.3ns.link — a simple yet powerful site, akin to LinkTree, but enhanced with an AI chatbot powered by the .Web3 domain's digital intelligence.
+3NS bridges traditional frameworks and facilitates the power of cutting-edge projects like LangChain and Google's GenKit, while also integrating on-chain frameworks such as Fetch.ai and Near. Through the portal website [YouLink.ai](https://YouLink.ai), users can effortlessly manage their domains. For those seeking simplicity, they can host their own personalized link aggregation website at https://<your-domainname>.3ns.link — a simple yet powerful site, akin to LinkTree, but enhanced with an AI chatbot powered by the .Web3 domain's digital intelligence.
 
-Our vision is to build an AI-first internet where agents autonomously transact, provide advice, and even self-evolve through on-chain intelligence merging. With advanced on-chain functionality—such as managing wallets for transactions, versioning, and rollback to ensure security and reliability after merges—3NS empowers agents to operate seamlessly N8N AI workflows. Integration with open-source frameworks like Ollama and compatibility with OpenWebUI model files bring cutting-edge LLM capabilities into the protocol, turning this vision into a reality.
+Our vision is to build an AI-first internet where agents autonomously transact, provide advice, and even self-evolve through on-chain intelligence merging. With advanced on-chain functionality—such as managing wallets for transactions, versioning, and rollback to ensure security and reliability after merges—3NS empowers agents to operate seamlessly with a variety of visual AI workflows such as ActivePieces and N8N. Integration with open-source frameworks like Ollama and compatibility with OpenWebUI model files bring cutting-edge LLM capabilities into the protocol, turning this vision into a reality.
 
-At the heart of 3NS is the Agent Domain Protocol (ADP)—a groundbreaking standard redefining digital addressing for the agentic web. Designed for real-world applications, 3NS equips agents with transactional wallets, on-chain intelligence merging with versioning and rollback and seamless integration with leading frontier LLMs via frameworks like Google GenKit. The incorporation of N8N extends workflow capabilities, delivering unprecedented versatility for decentralized and autonomous operations.
+At the heart of 3NS is the Agent Domain Protocol (ADP)—a groundbreaking standard redefining digital addressing for the agentic web. Designed for real-world applications, 3NS equips agents with transactional wallets, on-chain intelligence merging with versioning and rollback and seamless integration with leading frontier LLMs via frameworks like Google GenKit. The incorporation of a wide variety of (ActivePieces, N8N and more) extends workflow capabilities, delivering unprecedented versatility for decentralized and autonomous operations.
 
 ## Agent Domain Protocol (ADP)
 
@@ -44,7 +44,7 @@ Agent Domain Protocol provides a foundation for creating and managing intelligen
 
 1. **Domain Architecture**: The Domain Architecture of ADP redefines digital assets and utilises the full power of blockchain technology with advanced on-chain versioning, seamless intelligence merging,  on-chain rollback capabilities and integrated blockchain-based payments, enabling robust multichain interoperability and decentralized governance for dynamic ecosystems.
 2. **Discovery and Reputation**: Advanced metadata indexing, automonous agent discovery and decentralized reputation scoring ensure trust and discoverability.  
-3. **Agent Workflows**: AI-driven workflows with seamless multichain execution, supported by N8N-compatible syntax for drag-and-drop ease.  
+3. **Agent Workflows**: AI-driven workflows with seamless multichain execution, supported by AI workflow-compatible syntax for drag-and-drop ease.  
 4. **Agent Frameworks**: Supports a number of agent (decentralised like Fetch.ai, as well as, Google GenKit, Langchain, Autogen, CrewAI and more) frameworks is not opinionated on which one your agent chooses to utilise.   
 5. **Cross-Chain Interoperability**: Native support for Ethereum, Moonbeam, Polygon, Fetch.ai, Near and more for seamless multichain operations.  
 
@@ -58,7 +58,7 @@ To complement this open protocol, we've provided tools and libraries to simplify
 - **[3NS Frontend dApp](https://github.com/3nsai/web3names-app)**: Manage .Web3 domains through a seamless UI.  
 - **[3NS MetaMask Snap Plugin](https://github.com/3nsai/web3names-snap)**: Enable direct wallet-based domain interactions.  
 - **[3NS Subgraph](https://github.com/3nsai/3ns-subgraph)**: Optimize domain discovery and indexing with our subgraph.
-- **[3NS Web3Names.ai Customer Portal](https://web3names.ai)**: Provides an easy to use portal website for customer management of .Web3 domains  
+- **[3NS YouLink.ai Customer Portal](https://youlink.ai)**: Provides an easy to use portal website for customer management of .Web3 domains  
 
 *Certain repositories, due to the transformative potential they hold, remain private as we refine and secure their capabilities. Among these are our autonomous WebRTC agent-to-agent communication binary protocol and the Collective DAO framework, both designed to completely change the way we currently utilise the web through decentralized autonomous agent collaboration. These innovations will be unveiled in alignment with community input and ethical considerations of their powerful impact.  
 
@@ -94,7 +94,7 @@ Our ongoing research also includes exploring DeFi innovations such as Beefy Prot
 
 1. **Domain Architecture**: Tokenized, multichain-enabled domains supporting decentralized governance and collective decision-making. 
 2. **Discovery and Reputation**: Advanced metadata indexing, autonomous agent discovery and decentralized reputation scoring ensure trust and discoverability.  
-3. **Agent Workflows**: N8N-compatible syntax for drag-and-drop ease with 100s of powerful extensions.
+3. **Agent Workflows**: Visual editors we compatible with include ActivePieces and N8N syntax for drag-and-drop ease with 100s of powerful extensions.
 
 
 ## Domain Architecture
@@ -171,7 +171,7 @@ Discoverability and trust are foundational to ADP, enabling agents to locate and
 
 ## Workflows
 
-ADP workflows are the beating heart of agent automation, enabling tasks to execute seamlessly across chains. There is full support for the visual editor including drag-and-drop ease. We wanted to make sure non-technical users could leverage the full capabilities of the ADP without having to program. Using N8N-compatible syntax, workflows are designed for flexibility and simplicity. Our belief is more simple time-tested ETL based workflows work much better for most business tasks. So we focused on N8N compatibility which offers a variety of off-the-shelf plugins from Outlook to Asana functionality incombination with several of our own plugins that work seamlessless with decentralised projects and autonomous agent innovation.
+ADP workflows are the beating heart of agent automation, enabling tasks to execute seamlessly across chains. There is full support for the visual editor including drag-and-drop ease. We wanted to make sure non-technical users could leverage the full capabilities of the ADP without having to program. Using ActivePieces-compatible syntax, workflows are designed for flexibility and simplicity. Our belief is more simple time-tested ETL based workflows work much better for most business tasks. So we focused on developing multiple framework support such as N8N and activepieces compatibility which offers a variety of off-the-shelf plugins from Outlook to Asana functionality incombination with several of our own plugins that work seamlessless with decentralised projects and autonomous agent innovation. Our code serves as a basis for custom components across these workflow frameworks. We believe this is fundamental to how the evolution of decentralised web will evolve.
 
 ### Example Nodes:
 
@@ -224,9 +224,9 @@ The following have either integrated already or are in *evaluation
 | **BitTensor**      | *Evaluating integration: Decentralized digital commodities                         | [Website](https://bittensor.org/)        | [GitHub](https://github.com/opentensor)      |
 | **Google (GenKit)**| Integration with GenKit for AI workflows.                                       | [Website](https://firebase.google.com/)  | [GitHub](https://github.com/firebase)        |
 | **DecentralML**    | Polkadot substrate pallet for decentralized task execution using Docker.        | [Website](http://www.decentralml.io/)    | [GitHub](https://github.com/ashleyturing/decentralml)                              |
-| **Akash Network**  | *Evaluating integration: Decentralized compute marketplace for hosting docker (useful for N8N).          | [Website](https://akash.network/)        | [GitHub](https://github.com/ovrclk/akash)    |
-| **0g.ai**          | *Evaluating integration: Operating system for decentralized compute solutions (useful for N8N).                           | [Website](https://0g.ai/)                | -                              |
-| **HyperCycle**     | *Evaluating integration: Decentralized AI infrastructure for docker (useful for N8N).                   | [Website](https://www.hypercycle.ai/)    | [GitHub](https://github.com/singnet)         |
+| **Akash Network**  | *Evaluating integration: Decentralized compute marketplace for hosting docker (useful for ADP workflow (N8N, ActivePieces) hosting).          | [Website](https://akash.network/)        | [GitHub](https://github.com/ovrclk/akash)    |
+| **0g.ai**          | *Evaluating integration: Operating system for decentralized compute solutions (useful for ADP workflow hosting).                           | [Website](https://0g.ai/)                | -                              |
+| **HyperCycle**     | *Evaluating integration: Decentralized AI infrastructure for docker (useful for ADP hosting).                   | [Website](https://www.hypercycle.ai/)    | [GitHub](https://github.com/singnet)         |
 | **Space and Time** | *Evaluating integration: Decentralized data warehouse built for blockchain indexing and agent smart contracts (useful for DeFi).                  | [Website](https://www.spaceandtime.io/)  | -                               |
 
 ---
