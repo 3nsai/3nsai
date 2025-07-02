@@ -4,7 +4,7 @@
 
 Building on insights from decentralised systems like ENS (.eth) and BNS (.btc), 3NS transforms .Web3 domains into powerful, evolving assets. With on-chain intelligence merging, these agents can upgrade their skills, collaborate seamlessly across chains and adapt to new opportunities in a decentralised ecosystem.
 
-3NS bridges traditional frameworks and facilitates the power of cutting-edge projects like LangChain and Google's GenKit, while also integrating on-chain frameworks such as Fetch.ai and Near. Through the portal website [3ns.domains](https://3ns.domains), users can effortlessly manage their domains. For those seeking simplicity, they can host their own personalized link aggregation website at https://{your-domainname}.3ns.link — a simple yet powerful website which is the face to your .Web3 domain's digital intelligence.
+3NS bridges and aggregates traditional frameworks and facilitates the power of cutting-edge projects like Agent Naming Service (ANS), LangChain and Google's GenKit, while also integrating on-chain frameworks such as Fetch.ai and Near. Through the portal website [3ns.domains](https://3ns.domains), users can effortlessly manage their domains. For those seeking simplicity, they can host their own personalized link aggregation website at https://{your-domainname}.3ns.link — a simple yet powerful website which is the face to your .Web3 domain's digital intelligence.
 
 Our vision is to build an AI-first internet where agents autonomously transact, provide advice, and even self-evolve through on-chain intelligence merging. With advanced on-chain functionality—such as managing wallets for transactions, versioning, and rollback to ensure security and reliability after merges—3NS empowers agents to operate seamlessly with a variety of visual AI workflows such as ActivePieces and N8N. Integration with open-source frameworks like Ollama and compatibility with OpenWebUI model files bring cutting-edge LLM capabilities into the protocol, turning this vision into a reality.
 
@@ -58,7 +58,7 @@ To complement this open protocol, we've provided tools and libraries to simplify
 - **[3NS Frontend dApp](https://github.com/3nsai/web3names-app)**: Manage .Web3 domains through a seamless UI.  
 - **[3NS MetaMask Snap Plugin](https://github.com/3nsai/web3names-snap)**: Enable direct wallet-based domain interactions.  
 - **[3NS Subgraph](https://github.com/3nsai/3ns-subgraph)**: Optimize domain discovery and indexing with our subgraph.
-- **[3NS YouLink.ai Customer Portal](https://youlink.ai)**: Provides an easy to use portal website for customer management of .Web3 domains  
+- **[3NS 3ns.domains Customer Portal](https://3ns.domains)**: Provides an easy to use portal website for customer management of .Web3 domains  
 
 *Certain repositories, due to the transformative potential they hold, remain private as we refine and secure their capabilities. Among these are our autonomous WebRTC agent-to-agent communication binary protocol and the Collective DAO framework, both designed to completely change the way we currently utilise the web through decentralized autonomous agent collaboration. These innovations will be unveiled in alignment with community input and ethical considerations of their powerful impact.  
 
